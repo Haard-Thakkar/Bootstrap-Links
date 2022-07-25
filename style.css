@@ -1,0 +1,35 @@
+html{
+    align-items: center;
+    font-family: cursive;
+}
+
+body{
+    /* background: rgb(34,193,195);
+    background: linear-gradient(23deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%); */
+    background-color: #bfff00;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    align-items: center;
+    background: rgb(34,193,195);
+    background: linear-gradient(23deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    min-width: 100vw;
+    height: 4vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding: 6px;
+    color: white;
+}
+
+/* <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+<script src="https://unpkg.com/ml5@0.4.3/dist/ml5.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/webcamjs/1.0.26/webcam.js"></script>
+
+<script src="main.js"></script>
+<link rel="stylesheet" type="text/css" href="style.css"> */
